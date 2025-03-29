@@ -1,7 +1,10 @@
 {
-  "name": "hobbyfy-client",
+  "name": "hobbifi-client",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "HobbiFi – A modern sports card marketplace and tracking platform.",
+  "author": "John Stocker",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
